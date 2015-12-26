@@ -1,0 +1,274 @@
+<resources>
+    <string name="app_name">Metal Head Bio</string>
+
+
+    <string name="black_metal">Black Metal</string>
+    <string name="death_metal">Death Metal</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="thrash_metal">Thrash Metal</string>
+    <string name="doom_metal">Doom Metal</string>
+    <string name="folk_metal">Folk Metal</string>
+    <string name="genre">Genre</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_details">Band Details</string>
+
+
+    <string-array name="bandNames">
+        <item>Immortal</item>
+        <item>Mayhem</item>
+        <item>Venom</item>
+        <item>Emperor</item>
+        <item>Burzum</item>
+        <item>DarkThrone</item>
+        <item>Bathory</item>
+        <item>Behemoth</item>
+        <item>Gorgoroth</item>
+        <item>Dimmu Borgir</item>
+        <item>Satyricon</item>
+        <item>Inquisition</item>
+        <item>Celtic Frost</item>
+        <item>Watin</item>
+        <item>Dark Funeral</item>
+        <item>Mercyfull Fate</item>
+    </string-array>
+    <array name="icons">
+        <item>@drawable/imm</item>
+        <item>@drawable/mayhem</item>
+        <item>@drawable/ven</item>
+        <item>@drawable/emp</item>
+        <item>@drawable/bur</item>
+        <item>@drawable/dark</item>
+        <item>@drawable/bat</item>
+        <item>@drawable/behe</item>
+        <item>@drawable/gor</item>
+        <item>@drawable/dimmu</item>
+        <item>@drawable/sat</item>
+        <item>@drawable/inq</item>
+        <item>@drawable/celtic</item>
+        <item>@drawable/wat</item>
+        <item>@drawable/darkf</item>
+        <item>@drawable/mercy</item>
+    </array>
+
+    <string-array name="death">
+        <item>Death</item>
+        <item>Nile</item>
+        <item>Opeth</item>
+        <item>Deicide</item>
+        <item>Deathlok</item>
+        <item>Amon Amarth</item>
+        <item>Lamb Of God</item>
+        <item>Morbid Angel</item>
+        <item>Cannibal Corpse</item>
+        <item>Children Of Bodom</item>
+        <item>Carcass</item>
+        <item>Suffocation</item>
+        <item>Vader</item>
+        <item>Bolt Thrower</item>
+        <item>Decapitated</item>
+        <item>Dying Fetus</item>
+        <item>Gorguts</item>
+        <item>Disgorge</item>
+        <item>Necrophagist</item>
+        <item>Devourment</item>
+        <item>Dark Tranquillity</item>
+        <item>Obituary</item>
+
+
+    </string-array>
+    <array name="deathIcons">
+        <item>@drawable/death</item>
+        <item>@drawable/nile</item>
+        <item>@drawable/ope</item>
+        <item>@drawable/dei</item>
+        <item>@drawable/dethl</item>
+        <item>@drawable/amon</item>
+        <item>@drawable/lamb</item>
+        <item>@drawable/morb</item>
+        <item>@drawable/can</item>
+        <item>@drawable/chil</item>
+        <item>@drawable/carcas</item>
+        <item>@drawable/saff</item>
+        <item>@drawable/vader</item>
+        <item>@drawable/bolt</item>
+        <item>@drawable/dec</item>
+        <item>@drawable/dyingfetus</item>
+        <item>@drawable/gor</item>
+        <item>@drawable/dis</item>
+        <item>@drawable/nec</item>
+        <item>@drawable/dec</item>
+        <item>@drawable/darktran</item>
+        <item>@drawable/obi</item>
+    </array>
+
+    <string-array name="bandNamesHeavy">
+        <item>Dio</item>
+        <item>Korn</item>
+        <item>Anvil</item>
+        <item>SlipKnot</item>
+        <item>Godsmack</item>
+        <item>Iron Maiden</item>
+        <item>Queensryche</item>
+        <item>Judas Priest</item>
+        <item>King Diamond</item>
+        <item>Alice Cooper</item>
+        <item>Ghost</item>
+        <item>Dream Theater</item>
+        <item>Guns N Roses</item>
+        <item>Manowar</item>
+        <item>Halloween</item>
+        <item>Acid Witch</item>
+    </string-array>
+    <array name="iconsHeavy">
+        <item>@drawable/dio</item>
+        <item>@drawable/korn</item>
+        <item>@drawable/anvil</item>
+        <item>@drawable/slip</item>
+        <item>@drawable/godsmack</item>
+        <item>@drawable/iron</item>
+        <item>@drawable/queen</item>
+        <item>@drawable/judas</item>
+        <item>@drawable/king</item>
+        <item>@drawable/alice</item>
+        <item>@drawable/images</item>
+        <item>@drawable/dream</item>
+        <item>@drawable/guns</item>
+        <item>@drawable/mano</item>
+        <item>@drawable/halloween</item>
+        <item>@drawable/acid</item>
+
+    </array>
+
+    <string-array name="bandNamesDoom">
+        <item>Funeral</item>
+        <item>Katatonia</item>
+        <item>Pentagram</item>
+        <item>Candlemass</item>
+        <item>Saint Vitus</item>
+        <item>Black Sabbath</item>
+        <item>Paradise Lost</item>
+        <item>My Dying Bride</item>
+        <item>Type O Negative</item>
+        <item>Electric Wizard</item>
+        <item>Cathedral</item>
+        <item>Swallow The Sun</item>
+        <item>Reverend Bizarre</item>
+        <item>Draconian</item>
+        <item>Witchfinder General</item>
+        <item>Skepticism</item>
+        <item>Solitude Aeturnus</item>
+
+    </string-array>
+    <array name="iconsDoom">
+        <item>@drawable/fun</item>
+        <item>@drawable/kat</item>
+        <item>@drawable/pent</item>
+        <item>@drawable/cand</item>
+        <item>@drawable/saint</item>
+        <item>@drawable/black</item>
+        <item>@drawable/par</item>
+        <item>@drawable/my</item>
+        <item>@drawable/type</item>
+        <item>@drawable/elec</item>
+        <item>@drawable/cath</item>
+        <item>@drawable/shall</item>
+        <item>@drawable/rev</item>
+        <item>@drawable/dra</item>
+        <item>@drawable/witch</item>
+        <item>@drawable/spe</item>
+        <item>@drawable/soli</item>
+
+    </array>
+
+    <string-array name="bandNamesThrash">
+        <item>Sodom</item>
+        <item>Slayer</item>
+        <item>Exodus</item>
+        <item>Anthrax</item>
+        <item>Kreator</item>
+        <item>Metalica</item>
+        <item>Megadeth</item>
+        <item>OverKill</item>
+        <item>Sepultura</item>
+        <item>Motorhead</item>
+        <item>Annihilator</item>
+        <item>Death Angel</item>
+        <item>Destruction</item>
+        <item>Coroner</item>
+        <item>Machine Head</item>
+        <item>Dark Angel</item>
+        <item>Evile</item>
+
+    </string-array>
+    <array name="iconsThrash">
+        <item>@drawable/sod</item>
+        <item>@drawable/slay</item>
+        <item>@drawable/exodus</item>
+        <item>@drawable/anth</item>
+        <item>@drawable/kre</item>
+        <item>@drawable/met</item>
+        <item>@drawable/mega</item>
+        <item>@drawable/over</item>
+        <item>@drawable/sep</item>
+        <item>@drawable/moto</item>
+        <item>@drawable/anh</item>
+        <item>@drawable/deathan</item>
+        <item>@drawable/des</item>
+        <item>@drawable/cor</item>
+        <item>@drawable/machine</item>
+        <item>@drawable/darkan</item>
+        <item>@drawable/ev</item>
+    </array>
+
+    <string-array name="bandNamesFolk">
+        <item>Arkona</item>
+        <item>Turisas</item>
+        <item>Suidakra</item>
+        <item>Amorphis</item>
+        <item>Agalloch</item>
+        <item>Ensiferum</item>
+        <item>Eluveitie</item>
+        <item>Finntroll</item>
+        <item>Wintersun</item>
+        <item>Equilibrium</item>
+        <item>Týr</item>
+        <item>Dalriada</item>
+        <item>Korpiklaani</item>
+        <item>Falkenbach</item>
+        <item>Cruachan</item>
+        <item>Heidevolk</item>
+        <item>Orphaned Land</item>
+        <item>Thyrfing</item>
+
+
+    </string-array>
+    <array name="iconsFolk">
+        <item>@drawable/ark</item>
+        <item>@drawable/tur</item>
+        <item>@drawable/suid</item>
+        <item>@drawable/amor</item>
+        <item>@drawable/aga</item>
+        <item>@drawable/ensi</item>
+        <item>@drawable/elu</item>
+        <item>@drawable/fintrol</item>
+        <item>@drawable/win</item>
+        <item>@drawable/equili</item>
+        <item>@drawable/tyr</item>
+        <item>@drawable/dalriada</item>
+        <item>@drawable/kor</item>
+        <item>@drawable/falk</item>
+        <item>@drawable/crua</item>
+        <item>@drawable/hei</item>
+        <item>@drawable/orphan</item>
+        <item>@drawable/thyr</item>
+
+    </array>
+
+
+</resources>
